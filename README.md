@@ -1,4 +1,4 @@
-# Taylor-Swift-Music-Lyrics-Generator
+# Taylor-Swift-Lyrics-Generator
 generate music lyrics based on a hundred of Taylor Swift's album songs
 
 Created on Wed Feb 6 20:41:30 2019
